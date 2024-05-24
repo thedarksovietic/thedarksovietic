@@ -1,4 +1,11 @@
-## Hi there 👋
+## **Seja bem vindo** ♟️
+
+### Sou aluno da _Alura_ e aqui você verá meus projetos
+
+### Meu e-mail 📧
+- 00001113887564sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/b4ma74q0qL8AAAAM/your-welcome.gif)
 
 <!--
 **thedarksovietic/thedarksovietic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
